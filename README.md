@@ -1,1 +1,1 @@
-# Disease-Prediction-using-Machine-Learning-Algorithms-
+# Disease-Prediction-using-Machine-Learning-Algorithms
