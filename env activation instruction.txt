@@ -1,0 +1,1 @@
+conda activate C:\Users\Admin\Desktop\project\env
